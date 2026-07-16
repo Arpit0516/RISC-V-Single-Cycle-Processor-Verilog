@@ -54,12 +54,9 @@ The design was simulated and verified in Xilinx Vivado using a hardcoded instruc
 
 ---
 
-## 🏗️ Processor Datapath
+## 🏗️ Schematic diagram (vivado)
 
-> *(Add your processor block diagram here)*
-
-![Datapath](datapath.png)
-
+![Simulation Waveform](wschematic-vivado.png)
 ---
 
 ## 📈 Simulation
