@@ -64,4 +64,42 @@ Example:
 
 ---
 
-## Project Structure
+---
+
+## Simulation
+
+The design was simulated using Vivado Simulator.
+
+### Waveform
+
+(Add your waveform screenshot)
+
+Example:
+
+![Waveform](images/waveform.png)
+
+---
+
+## Tools Used
+
+- Verilog HDL
+- Xilinx Vivado
+
+---
+
+## Future Improvements
+
+- JAL
+- JALR
+- LUI
+- AUIPC
+- Pipeline Implementation
+- Hazard Detection
+- Forwarding Unit
+- Instruction Memory Initialization from HEX File
+
+---
+
+## Author
+
+Arpit Rajput
