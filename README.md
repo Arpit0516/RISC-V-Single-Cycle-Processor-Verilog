@@ -72,11 +72,9 @@ The design was simulated using Vivado Simulator.
 
 ### Waveform
 
-(Add your waveform screenshot)
+## Simulation Waveform
 
-Example:
-
-![Waveform](images/waveform.png)
+![Simulation Waveform](wavveform1.png)
 
 ---
 
