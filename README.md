@@ -74,7 +74,7 @@ The design was simulated using Vivado Simulator.
 
 ## Simulation Waveform
 
-![Simulation Waveform](wavveform1.png)
+![Simulation Waveform](waveform.png)
 
 ---
 
