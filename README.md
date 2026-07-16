@@ -53,8 +53,7 @@ The design was simulated and verified in Xilinx Vivado using a hardcoded instruc
 - BEQ
 
 ---
-
-## 🏗️ Schematic diagram (vivado)
+## 🖥️ RTL Schematic (Vivado)
 
 ![Vivado RTL Schematic](schematic_vivado.png)
 ---
