@@ -1,6 +1,6 @@
-# 32-bit Single-Cycle RISC-V Processor (Verilog)
+# 🚀 32-bit Single-Cycle RISC-V Processor (Verilog)
 
-## Overview
+## 📖 Overview
 
 This project implements a 32-bit Single-Cycle RISC-V Processor in Verilog HDL based on the RV32I instruction set. The processor executes each instruction in a single clock cycle and demonstrates the complete datapath including instruction fetch, decode, execute, memory access, and write-back.
 
@@ -8,7 +8,7 @@ The design was simulated and verified in Xilinx Vivado using a hardcoded instruc
 
 ---
 
-## Features
+## ✨ Features
 
 - 32-bit Program Counter (PC)
 - Instruction Memory (ROM)
@@ -29,7 +29,7 @@ The design was simulated and verified in Xilinx Vivado using a hardcoded instruc
 
 ---
 
-## Supported Instructions
+## 📚 Supported Instructions
 
 ### R-Type
 - ADD
@@ -54,38 +54,32 @@ The design was simulated and verified in Xilinx Vivado using a hardcoded instruc
 
 ---
 
-## Processor Datapath
+## 🏗️ Processor Datapath
 
-(Add your processor block diagram here)
+> *(Add your processor block diagram here)*
 
-Example:
-
-![Datapath](images/datapath.png)
+![Datapath](datapath.png)
 
 ---
 
----
+## 📈 Simulation
 
-## Simulation
-
-The design was simulated using Vivado Simulator.
+The design was simulated using **Xilinx Vivado Simulator**.
 
 ### Waveform
-
-## Simulation Waveform
 
 ![Simulation Waveform](waveform.png)
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Verilog HDL
 - Xilinx Vivado
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - JAL
 - JALR
@@ -98,6 +92,6 @@ The design was simulated using Vivado Simulator.
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Arpit Rajput
+**Arpit Rajput**
