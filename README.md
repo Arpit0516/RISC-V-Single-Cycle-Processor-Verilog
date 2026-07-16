@@ -56,7 +56,7 @@ The design was simulated and verified in Xilinx Vivado using a hardcoded instruc
 
 ## 🏗️ Schematic diagram (vivado)
 
-![Simulation Waveform](wschematic-vivado.png)
+![Vivado RTL Schematic](schematic_vivado.png)
 ---
 
 ## 📈 Simulation
